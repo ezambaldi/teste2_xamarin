@@ -2,6 +2,6 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Teste3" x:Class="Teste3.MainPage">
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcttttttomvvve to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Label Text="Welctttyyytttomvvve to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
     </StackLayout>
 </ContentPage>
